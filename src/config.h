@@ -1,0 +1,5 @@
+#define LED_ERROR 13
+#define DHT_PIN 7
+#define WATERDETECTION_PIN A0
+
+#define ACCURACY 5000
