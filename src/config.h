@@ -1,4 +1,4 @@
-#define LED_ERROR 13
+#define LED_ERROR 9
 #define DHT_PIN 7
 #define WATERDETECTION_PIN A0
 
